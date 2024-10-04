@@ -17,19 +17,7 @@ The simulation is based on a model where a grid represents an environment with f
 - To observe the long-term population stability under various simulation settings.
 - To provide insights into optimal conditions for bacterial survival and expansion.
 
-## How to Use
-1. Clone the repository to your local machine.
-2. Install the required dependencies listed in `requirements.txt`.
-3. Run the simulation with different parameters by modifying the configuration settings in `config.py`.
-4. View the results through the generated animations and output data files.
-
 ## Key Results
 - **Population Dynamics:** Understanding how bacterial populations change in response to environmental conditions.
 - **Resource Utilization:** Analysis of how efficiently bacteria can consume and deplete available resources.
 - **Optimal Growth Conditions:** Recommendations on environmental settings that support sustainable bacterial growth.
-
-## Installation
-```bash
-git clone https://github.com/yourusername/bacteria-growth-simulation.git
-cd bacteria-growth-simulation
-pip install -r requirements.txt
